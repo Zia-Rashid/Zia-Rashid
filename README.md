@@ -1,20 +1,25 @@
 ```
-+==========================+
-|                          |
-| $$$$$$$$\ $$\            |
-| \____$$  |\__|           | 
-|     $$  / $$\  $$$$$$\   | 
-|    $$  /  $$ | \____$$\  |       I'm a cybersecurity student interestest in vulnerability research and secure programming. 
-|   $$  /   $$ | $$$$$$$ | |       I'm focusing on creating solutions that can prioritize efficiency, 
-|  $$  /    $$ |$$  __$$ | |       security, and reliability while addressing real-world challenges.
-| $$$$$$$$\ $$ |\$$$$$$$ | |
-| \________|\__| \_______| |
-|                          |
-+==========================+  
+==============================================================================+
+|                                                                               |
+| $$$$$$$$\$$\                $$$$$$$\                   $$\      $$\      $$\  |
+| \____$$  \__|               $$  __$$\                  $$ |     \__|     $$ | |
+|     $$  /$$\ $$$$$$\        $$ |  $$ |$$$$$$\  $$$$$$$\$$$$$$$\ $$\ $$$$$$$ | |
+|    $$  / $$ |\____$$\       $$$$$$$  |\____$$\$$  _____$$  __$$\$$ $$  __$$ | |
+|   $$  /  $$ |$$$$$$$ |      $$  __$$< $$$$$$$ \$$$$$$\ $$ |  $$ $$ $$ /  $$ | |
+|  $$  /   $$ $$  __$$ |      $$ |  $$ $$  __$$ |\____$$\$$ |  $$ $$ $$ |  $$ | |
+| $$$$$$$$\$$ \$$$$$$$ |      $$ |  $$ \$$$$$$$ $$$$$$$  $$ |  $$ $$ \$$$$$$$ | |
+| \________\__|\_______|      \__|  \__|\_______\_______/\__|  \__\__|\_______| |
+|                                                                               |
++===============================================================================+
 ```
+I'm a cybersecurity student interestest in vulnerability research and secure programming. 
+I'm focusing on creating solutions that can prioritize efficiency, security, 
+and reliability while addressing real-world challenges.
+
 ## About Me  
 - **Cybersecurity & Secure Programming** 🛡️:  
-  Studying **vulnerability research**, **penetration testing**, **exploit development** with the goal of becoming a more knowledgeable security researcher
+  Studying **vulnerability research**, **penetration testing**, **exploit development**
+  with the goal of becoming a more knowledgeable security researcher
 
 - **Projects I Enjoy** 💻:  
   - Developing tooling for kernel and application fuzzing 
