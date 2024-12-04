@@ -1,10 +1,16 @@
-# Welcome to My GitHub 👋  
+# +==========================+
+# |                          |
+# | $$$$$$$$\ $$\            |
+# | \____$$  |\__|           |
+# |     $$  / $$\  $$$$$$\   |
+# |    $$  /  $$ | \____$$\  |
+# |   $$  /   $$ | $$$$$$$ | |
+# |  $$  /    $$ |$$  __$$ | |
+# | $$$$$$$$\ $$ |\$$$$$$$ | |
+# | \________|\__| \_______| |
+# |                          |
+# +==========================+                                                
 
-_|_|_|_|_|  _|            
-      _|          _|_|_|  
-    _|      _|  _|    _|  
-  _|        _|  _|    _|  
-_|_|_|_|_|  _|    _|_|_| 
 
 I'm a cybersecurity student interestest in **vulnerability research** and **secure programming**. I'm focusing on creating solutions that prioritize **efficiency, security, and reliability** while addressing real-world challenges.  
 
