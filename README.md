@@ -34,8 +34,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀                                                                 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠋⠀
 ```
 I'm a cybersecurity student interestest in vulnerability research and secure programming. 
-I'm focusing on creating solutions that can prioritize efficiency, security, 
-and reliability while addressing real-world challenges.
+I'm focusing on projects that interact with the real world or aspects of it(via simulation).
 
 ## About Me  
 - **Cybersecurity & Secure Programming** 🛡️:  
