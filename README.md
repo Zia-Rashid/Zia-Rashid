@@ -37,13 +37,14 @@ I'm a cybersecurity student interestest in vulnerability research and secure pro
 I'm focusing on projects that interact with the real world or aspects of it(via simulation).
 
 ## About Me  
-- **Cybersecurity & Secure Programming** 🛡️:  
-  Studying **vulnerability research**, **penetration testing**, **exploit development**
+- **Cybersecurity & Security Engineering** 🛡️:  
+  Studying **vulnerability research**, **penetration testing**, **binary exploitation**, and **reverse engineering**
   with the goal of becoming a more knowledgeable security researcher
 
-- **Projects I Enjoy** 💻:  
-  - Developing tooling for kernel and application fuzzing 
-  - Ensuring high-performance systems do so securely
-  - Anything that can teach me something I don't know  
+- **Projects I Enjoy** 💻:
+  - Compiler and OS development
+  - CTF challenges
+  - Tooling for kernel and appl fuzzing
+  - Task Automation/algorithmic development
 
 Feel free to explore my repos or reach out for any questions.
